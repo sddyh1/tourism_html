@@ -29,10 +29,10 @@ travelworld/
 ├── style.css # стили и адаптивность
 ├── favicon.svg # иконка сайта
 └── images/
-├── hero-bg.jpg # фон для hero-блока
-├── italy.jpg # карточка Италии
-├── switzerland.jpg # карточка Швейцарии
-└── maldives.jpg # карточка Мальдив
+      ├── hero-bg.jpg # фон для hero-блока
+      ├── italy.jpg # карточка Италии
+      ├── switzerland.jpg # карточка Швейцарии
+      └── maldives.jpg # карточка Мальдив
 ```
 
 
