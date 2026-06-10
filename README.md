@@ -22,6 +22,8 @@
 - **Google Fonts** - шрифты Montserrat
 
 ## Структура проекта
+```
+
 travelworld/
 ├── index.html # разметка страницы
 ├── style.css # стили и адаптивность
@@ -31,8 +33,8 @@ travelworld/
 ├── italy.jpg # карточка Италии
 ├── switzerland.jpg # карточка Швейцарии
 └── maldives.jpg # карточка Мальдив
+```
 
-text
 
 ## Запуск
 
